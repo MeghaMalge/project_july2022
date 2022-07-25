@@ -13,8 +13,15 @@ git status
 ## commit
 git commit -m "message"
 
-## log
+## ckeck commit log
 git log
+
+## add a remote
+git remote add remote_name remote_url
+Generally default remote is called '''Origin'''
+
+## checking remote that you have
+git remote -v
 
 ## Downloads and references
 -https://git-scm.com/
