@@ -6,6 +6,8 @@ git init
 
 ## commit workflow
 git add filename
+
+## checking status
 git status
 
 ## Downloads and references
